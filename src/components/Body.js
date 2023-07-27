@@ -15,18 +15,21 @@ const Body = () => {
     },[]);
 
     const fetchData = async () => {
-        const data = await fetch(
-            "https://www.swiggy.com/dapi/restaurants/list/v5?lat=24.6005075&lng=80.8322428&page_type=DESKTOP_WEB_LISTING"
+        const res = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=24.6005075&lng=80.8322428&page_type=DESKTOP_WEB_LISTING" 
+            
         );
-        const json = await data.json();
-
-        console.log(json);
+        const jsonData = await res.json();
+        console.log(jsonData);
+       // console.log(json);
         // Optional Chaining
-        setListOfRestaurant(json?.data?.cards[2]?.data?.data?.cards);
-        setFilterRestaurant(json?.data?.cards[2]?.data?.data?.cards);
-    };
+        // setListOfRestaurant(json?.data?.cards[2]?.data?.data?.cards);
+        // setFilterRestaurant(json?.data?.cards[2]?.data?.data?.cards);
 
-    return listOfRestaurants.length === 0 ? (<Shimmer />) : (
+        setListOfRestaurant(jsonData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+        setFilterRestaurant(jsonData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+    };
+   
+    return  listOfRestaurants.length === 0 ? (<Shimmer />) :  (
 
         <div className="body">
            <div className="filter">
@@ -59,11 +62,16 @@ const Body = () => {
                  </button>
            </div>
             <div className="res-container">
-               {filteredRestaurant.map((restaurant) => ( 
-                <Link to={"/restaurants/"+ restaurant.data.id}> <RestaurantCard  key={restaurant.data.id} resData={restaurant} /> </Link>
+               {filteredRestaurant.map((restaurants) => ( 
+                <Link  key={restaurants.data.info} 
+                to={"/restaurants/"+ restaurants.data.info}>
+                 <RestaurantCard  resData={restaurants} /> </Link>
                  ))} 
             </div>
         </div>
     );
 };
 export default Body;
+
+// "https://www.swiggy.com/dapi/restaurants/list/v5?lat=24.6005075&lng=80.8322428&page_type=DESKTOP_WEB_LISTING"
+// https://www.swiggy.com/dapi/restaurants/list/v5?lat=${location.lat}&lng=${location.long}&page_type=DESKTOP_WEB_LISTING

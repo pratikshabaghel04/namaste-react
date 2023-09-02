@@ -1,0 +1,2004 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "483009",
+                            "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                            "city": "Patna",
+                            "slugs": {
+                                "restaurant": "kwality-wall’s-frozen-dessert-&-ice-cream-shop-khajpura-khajpura",
+                                "city": "patna"
+                            },
+                            "uniqueId": "2a38d424-6a83-4b84-92a0-c0f2ed0f5efc",
+                            "cloudinaryImageId": "ajfqjytbxd6dajl7vxzl",
+                            "locality": "Ashokpuri Colony",
+                            "areaName": "Khajpura",
+                            "costForTwo": "20000",
+                            "costForTwoMessage": "₹200 for two",
+                            "cuisines": [
+                                "Desserts",
+                                "Ice Cream"
+                            ],
+                            "avgRating": 4.5,
+                            "veg": true,
+                            "feeDetails": {
+                                "restaurantId": "483009",
+                                "fees": [
+                                    {
+                                        "name": "time"
+                                    },
+                                    {
+                                        "name": "distance",
+                                        "fee": 2000
+                                    },
+                                    {
+                                        "name": "special"
+                                    }
+                                ],
+                                "totalFee": 2000,
+                                "icon": "EquitableDistanceFee/infoIcon",
+                                "message": "Far-away restaurant. Additional delivery fees will apply."
+                            },
+                            "parentId": "582",
+                            "avgRatingString": "4.5",
+                            "totalRatingsString": "1K+ ratings",
+                            "sla": {
+                                "restaurantId": "483009",
+                                "lastMileTravel": 1534.9,
+                                "serviceability": "NON_SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "lastMileTravelString": "1534.9 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2023-08-19 00:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "40% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "40% off | Use SWIGGYIT",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code SWIGGYIT",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹100 | Use RUPAY100 Above ₹129",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "kwality-wall’s-frozen-dessert-&-ice-cream-shop-khajpura-khajpura",
+                            "multiOutlet": true,
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "SALTWATER: A/16, ASHOKPURI COLONY, KHAJPURA, PATNA, KARANPURA, PATNA SADAR , PATNA, BIHAR- 800014 (HUL- I280206P574)"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Desserts,Ice Cream"
+                                }
+                            ],
+                            "totalRatings": 1000,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "40% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "40% off | Use SWIGGYIT",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off up to ₹80 | Use code SWIGGYIT",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off up to ₹100 | Use RUPAY100 Above ₹129",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/483009"
+                            },
+                            "ratingSlab": "RATING_SLAB_5",
+                            "availabilityServiceabilityMessage": "Does not deliver to your location",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Wish you were"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSER!"
+                                },
+                                "message": {
+                                    "text": "This location is outside the outlet's delivery area",
+                                    "textColour": "negative"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#F64C41",
+                                    "bgGradientColorEnd": "#E53554"
+                                }
+                            },
+                            "hasBestsellerItems": true,
+                            "nearestOutletNudge": {
+                                "nearestOutletInfo": {
+                                    "siblingOutlet": {
+                                        "id": "493478",
+                                        "city": "0",
+                                        "slugs": {},
+                                        "areaName": "Athwa",
+                                        "costForTwo": "0",
+                                        "feeDetails": {},
+                                        "sla": {
+                                            "deliveryTime": 21,
+                                            "lastMileTravel": 5,
+                                            "slaString": "21 MINS",
+                                            "lastMileTravelString": "5.0 km",
+                                            "iconType": "ICON_TYPE_EMPTY"
+                                        },
+                                        "availability": {
+                                            "restaurantClosedMeta": {}
+                                        },
+                                        "aggregatedDiscountInfo": {
+                                            "visible": true
+                                        },
+                                        "badges": {},
+                                        "aggregatedDiscountInfoV2": {
+                                            "visible": true
+                                        },
+                                        "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                                        "cartOrderabilityNudgeBanner": {
+                                            "parameters": {},
+                                            "presentation": {}
+                                        }
+                                    }
+                                },
+                                "nearestOutletComms": {
+                                    "title": {
+                                        "text": "Don't worry! Try our outlet that's delivering"
+                                    },
+                                    "subTitle": {
+                                        "text": "Switch to the fastest alternate"
+                                    }
+                                }
+                            },
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "25.607589,85.07828799999993"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 5,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "40% OFF UPTO ₹80",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "fee7cf9f-3ef3-4e6f-839c-958b88c40713"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE SWIGGYIT",
+                                            "description": "ON SELECT ITEMS",
+                                            "offerType": "offers",
+                                            "restId": "483009",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹100",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/be912a4c543f00172d9f82c033ee7239",
+                                            "offerIds": [
+                                                "70a98e19-77b5-43d4-b6ec-3c32929ae868"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE RUPAY100",
+                                            "description": "ABOVE ₹129",
+                                            "offerType": "offers",
+                                            "restId": "483009",
+                                            "offerLogo": "rng/md/ads/production/be912a4c543f00172d9f82c033ee7239",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹200",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "offerIds": [
+                                                "a69dfd9d-5ad7-4e60-b4b1-ad8140c8cb18"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE INDUSIND20",
+                                            "description": "ABOVE ₹600",
+                                            "offerType": "offers",
+                                            "restId": "483009",
+                                            "offerLogo": "rng/md/ads/production/5c4848f8c208408b048c18f6be604f14",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹80",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/6de08393313dbf29b8b4c610c30702ad",
+                                            "offerIds": [
+                                                "9b4931b9-0bea-4fdb-acb9-afa86da43919"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE ONECARD",
+                                            "description": "ABOVE ₹250",
+                                            "offerType": "offers",
+                                            "restId": "483009",
+                                            "offerLogo": "rng/md/ads/production/6de08393313dbf29b8b4c610c30702ad",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "15% OFF UPTO ₹300",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "offerIds": [
+                                                "dc23cf1d-dce3-4ad1-8506-ff010e482b6e"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE CITIFOODIE",
+                                            "description": "ABOVE ₹1200",
+                                            "offerType": "offers",
+                                            "restId": "483009",
+                                            "offerLogo": "rng/md/ads/production/15fb1cfe885005447dc8375e7970600f",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "isPureVeg": true,
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "offersFilter": {
+                                                "attributes": {
+                                                    "displayText": "40% OFF"
+                                                }
+                                            },
+                                            "topRatedFilter": {}
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135320",
+                                                            "name": "Hazelnut Chocolate Ice Cream 500ml",
+                                                            "category": "New Launches",
+                                                            "description": "(500ml Tub) Ice Cream Crafted for Indulgence! Decadent Chocolate Ice Cream full of crunchy and roasted hazelnuts and rich chocolate.  A perfect indulgent treat. Kcal/Serving: 165",
+                                                            "imageId": "c30a941f8010959f4901bee7b8b2317b",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 32500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.6",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901923",
+                                                            "name": "Dry Fruit Delight Cup 100ml",
+                                                            "category": "New Launches",
+                                                            "description": "(100ml Cup) A Dry Fruit Lover's Paradise! Crunchy Cashew Nuts, Almonds and Delicious Raisins In Every Bite Of Creamy Bite. Kcal/Serving: 126",
+                                                            "imageId": "d8287c213336579305ddcc7236e0c784",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901947",
+                                                            "name": "Divine Chocolate Chocochip Cup 100ml",
+                                                            "category": "New Launches",
+                                                            "description": "(100ml Cup) A Real Chocolate Indulgence Made With Rich Cocoa. Loaded With Choco Chips & Rich Chocolate Sauce In Every Creamy Bite. Kcal/Serving: 133",
+                                                            "imageId": "e71fce503542d98bfee7a16bd133b799",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "4 ratings",
+                                                                    "ratingCountV2": "4"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135339",
+                                                            "name": "Cornetto Oreo 110ml",
+                                                            "category": "Cornetto Cone",
+                                                            "description": "(110ml) Oreo cookie chunks in creamy vanilla, delicious chocolate disc and crunchy waffle cone.  An all time favourite for cone lovers! Kcal/Serving: 246",
+                                                            "imageId": "2d665bfdf73e8abb87bcc2252d3d8482",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135310",
+                                                            "name": "Choco Brownie Fudge 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) Rich chocolate tub  full of chunky brownie pieces and chocolate fudge.  \nA tub that will make a dark chocolate lover Rock N Roll. Kcal/Serving: 150",
+                                                            "imageId": "fa387aa9b3aaaa8ae0cd907405a5d73b",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 31900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "20 ratings",
+                                                                    "ratingCountV2": "20"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88416610",
+                                                            "name": "Oreo & Cream 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) The Original Oreo Tub!\nCrunchy Oreo cookie chunks in rich creamy vanilla.  Kcal/Serving: 126",
+                                                            "imageId": "6a60ed96e444ca2cdd4cb4e9bce8e315",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.9",
+                                                                    "ratingCount": "24 ratings",
+                                                                    "ratingCountV2": "24"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135309",
+                                                            "name": "Cadbury Crackle 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) A Cadbury lover's delight!\nCadbury Crackle chunks in a rich creamy chocolate tub with swirls of rich chocolate sauce. A perfect partner for celebrations! Kcal/Serving: 155",
+                                                            "imageId": "90a4e49b01848470a12792efa43a6767",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 37900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135386",
+                                                            "name": "Kesar Pista 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml) Royal delight in every bite!\nA rich and creamy scoop loaded with rich flavorful kesar and pieces of pista.  Kcal/Serving: 117",
+                                                            "imageId": "241508c685ea9654924e7da8b30d36df",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "33 ratings",
+                                                                    "ratingCountV2": "33"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135393",
+                                                            "name": "Tutti Frutti 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml) Rich creamy scoop loaded with tiny bites of tutti fruitty. Kcal/Serving: 96",
+                                                            "imageId": "d202c570fe76a94873c84d3a95bc5958",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "26 ratings",
+                                                                    "ratingCountV2": "26"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135390",
+                                                            "name": "Creamy Kulfi 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml ) Rich & creamy desi kulfi icecream loaded with almonds and a twist of rose sauce. A perfect companion for hosting! Kcal/Serving: 133",
+                                                            "imageId": "77e841fe347b91093b2b59fad0bc1810",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901916",
+                                                            "name": "Black Forest Feast  - [70ml x 3pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Black Forest cake meets Feast!\nCake pieces through layers of Feast with a solid chocolate surprise at the end. Kcal/Serving: 249",
+                                                            "imageId": "907fb5ca628c112308a00c4141407db3",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 13500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901914",
+                                                            "name": "Cornetto Choco Vanilla [105ml x 4pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "(105ml) A yummilicious duo of rich and creamy vanilla  topped with chocolate sauce and chocochips in a crunchy waffle cone. Kcal/Serving: 177",
+                                                            "imageId": "6fe33b2572dec595b51cf6e911e5017f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 12000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901920",
+                                                            "name": "Butterscotch Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Creamy butterscotch Party Pack loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 252",
+                                                            "imageId": "d16da60da3d4eddc8d9384d6b6e1a80c",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 30000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901921",
+                                                            "name": "Mango Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Enjoy the delight of real  alphonso mango in a delicious creamy Party Pack.  A fruit lover's ultimate delight! Kcal/Serving: 188",
+                                                            "imageId": "8a8a3c588d8df3921c1831030deee394",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 31000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901917",
+                                                            "name": "Aamras [60ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Aamras All Year Round!\nDelicious mango stick made with pulp of real alphonso mangoes. Kcal/Serving: 195",
+                                                            "imageId": "64c8411c16c0586a847492ec93daffc3",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901922",
+                                                            "name": "Vanilla Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Rich creamy vanilla dessert thats more vanilla-tasting than any vanilla you have ever tasted in all of vanillas entirety. Kcal/Serving: 224",
+                                                            "imageId": "94a61de6ae90919924296b4ba1abf115",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 25000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901949",
+                                                            "name": "Oreo and Cream Cup 100ml",
+                                                            "category": "Sundae & Scoops",
+                                                            "description": "(100ml )Crunchy Oreo cookie chunks with rich and creamy vanilla in a cup. Kcal/Serving: 126",
+                                                            "imageId": "1e68d44690ff3929a4ec66e73702cbdf",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "21 ratings",
+                                                                    "ratingCountV2": "21"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135334",
+                                                            "name": "Tender Coconut Cup 100ml",
+                                                            "category": "Sundae & Scoops",
+                                                            "description": "(100ml) Feel naturally refreshed with every bite. Creamy cup loaded with chunks of coconut. Kcal/Serving: 149",
+                                                            "imageId": "ffd0dbc39a590eba885237f6678cc6c1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED",
+                                            "showOutsidePanel": true
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "New Launches",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135320",
+                                                            "name": "Hazelnut Chocolate Ice Cream 500ml",
+                                                            "category": "New Launches",
+                                                            "description": "(500ml Tub) Ice Cream Crafted for Indulgence! Decadent Chocolate Ice Cream full of crunchy and roasted hazelnuts and rich chocolate.  A perfect indulgent treat. Kcal/Serving: 165",
+                                                            "imageId": "c30a941f8010959f4901bee7b8b2317b",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 32500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.6",
+                                                                    "ratingCount": "8 ratings",
+                                                                    "ratingCountV2": "8"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901923",
+                                                            "name": "Dry Fruit Delight Cup 100ml",
+                                                            "category": "New Launches",
+                                                            "description": "(100ml Cup) A Dry Fruit Lover's Paradise! Crunchy Cashew Nuts, Almonds and Delicious Raisins In Every Bite Of Creamy Bite. Kcal/Serving: 126",
+                                                            "imageId": "d8287c213336579305ddcc7236e0c784",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901947",
+                                                            "name": "Divine Chocolate Chocochip Cup 100ml",
+                                                            "category": "New Launches",
+                                                            "description": "(100ml Cup) A Real Chocolate Indulgence Made With Rich Cocoa. Loaded With Choco Chips & Rich Chocolate Sauce In Every Creamy Bite. Kcal/Serving: 133",
+                                                            "imageId": "e71fce503542d98bfee7a16bd133b799",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "4 ratings",
+                                                                    "ratingCountV2": "4"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Cornetto Cone",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135339",
+                                                            "name": "Cornetto Oreo 110ml",
+                                                            "category": "Cornetto Cone",
+                                                            "description": "(110ml) Oreo cookie chunks in creamy vanilla, delicious chocolate disc and crunchy waffle cone.  An all time favourite for cone lovers! Kcal/Serving: 246",
+                                                            "imageId": "2d665bfdf73e8abb87bcc2252d3d8482",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Premium Family Tubs",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135310",
+                                                            "name": "Choco Brownie Fudge 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) Rich chocolate tub  full of chunky brownie pieces and chocolate fudge.  \nA tub that will make a dark chocolate lover Rock N Roll. Kcal/Serving: 150",
+                                                            "imageId": "fa387aa9b3aaaa8ae0cd907405a5d73b",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 31900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "20 ratings",
+                                                                    "ratingCountV2": "20"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88416610",
+                                                            "name": "Oreo & Cream 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) The Original Oreo Tub!\nCrunchy Oreo cookie chunks in rich creamy vanilla.  Kcal/Serving: 126",
+                                                            "imageId": "6a60ed96e444ca2cdd4cb4e9bce8e315",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.9",
+                                                                    "ratingCount": "24 ratings",
+                                                                    "ratingCountV2": "24"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135309",
+                                                            "name": "Cadbury Crackle 700ml",
+                                                            "category": "Premium Family Tubs",
+                                                            "description": "(700ml Tub) A Cadbury lover's delight!\nCadbury Crackle chunks in a rich creamy chocolate tub with swirls of rich chocolate sauce. A perfect partner for celebrations! Kcal/Serving: 155",
+                                                            "imageId": "90a4e49b01848470a12792efa43a6767",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 37900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "6 ratings",
+                                                                    "ratingCountV2": "6"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Family Value Packs",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135386",
+                                                            "name": "Kesar Pista 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml) Royal delight in every bite!\nA rich and creamy scoop loaded with rich flavorful kesar and pieces of pista.  Kcal/Serving: 117",
+                                                            "imageId": "241508c685ea9654924e7da8b30d36df",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "33 ratings",
+                                                                    "ratingCountV2": "33"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135393",
+                                                            "name": "Tutti Frutti 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml) Rich creamy scoop loaded with tiny bites of tutti fruitty. Kcal/Serving: 96",
+                                                            "imageId": "d202c570fe76a94873c84d3a95bc5958",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 15500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "26 ratings",
+                                                                    "ratingCountV2": "26"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135390",
+                                                            "name": "Creamy Kulfi 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "(700ml ) Rich & creamy desi kulfi icecream loaded with almonds and a twist of rose sauce. A perfect companion for hosting! Kcal/Serving: 133",
+                                                            "imageId": "77e841fe347b91093b2b59fad0bc1810",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "122054335",
+                                                            "name": "Oreo Family Pack 700ml",
+                                                            "category": "Family Value Packs",
+                                                            "description": "The original oreo party pack!\ncrunchy oreo cookie chunks in rich creamy vanilla.  kcal/serving: 252",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Value Combos",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901916",
+                                                            "name": "Black Forest Feast  - [70ml x 3pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Black Forest cake meets Feast!\nCake pieces through layers of Feast with a solid chocolate surprise at the end. Kcal/Serving: 249",
+                                                            "imageId": "907fb5ca628c112308a00c4141407db3",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 13500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901914",
+                                                            "name": "Cornetto Choco Vanilla [105ml x 4pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "(105ml) A yummilicious duo of rich and creamy vanilla  topped with chocolate sauce and chocochips in a crunchy waffle cone. Kcal/Serving: 177",
+                                                            "imageId": "6fe33b2572dec595b51cf6e911e5017f",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 12000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901920",
+                                                            "name": "Butterscotch Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Creamy butterscotch Party Pack loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 252",
+                                                            "imageId": "d16da60da3d4eddc8d9384d6b6e1a80c",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 30000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901921",
+                                                            "name": "Mango Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Enjoy the delight of real  alphonso mango in a delicious creamy Party Pack.  A fruit lover's ultimate delight! Kcal/Serving: 188",
+                                                            "imageId": "8a8a3c588d8df3921c1831030deee394",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 31000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901917",
+                                                            "name": "Aamras [60ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Aamras All Year Round!\nDelicious mango stick made with pulp of real alphonso mangoes. Kcal/Serving: 195",
+                                                            "imageId": "64c8411c16c0586a847492ec93daffc3",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901922",
+                                                            "name": "Vanilla Party Pack [700ml x 2pcs]",
+                                                            "category": "Value Combos",
+                                                            "description": "Rich creamy vanilla dessert thats more vanilla-tasting than any vanilla you have ever tasted in all of vanillas entirety. Kcal/Serving: 224",
+                                                            "imageId": "94a61de6ae90919924296b4ba1abf115",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 25000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Sundae & Scoops",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121901949",
+                                                            "name": "Oreo and Cream Cup 100ml",
+                                                            "category": "Sundae & Scoops",
+                                                            "description": "(100ml )Crunchy Oreo cookie chunks with rich and creamy vanilla in a cup. Kcal/Serving: 126",
+                                                            "imageId": "1e68d44690ff3929a4ec66e73702cbdf",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "21 ratings",
+                                                                    "ratingCountV2": "21"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114135334",
+                                                            "name": "Tender Coconut Cup 100ml",
+                                                            "category": "Sundae & Scoops",
+                                                            "description": "(100ml) Feel naturally refreshed with every bite. Creamy cup loaded with chunks of coconut. Kcal/Serving: 149",
+                                                            "imageId": "ffd0dbc39a590eba885237f6678cc6c1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "offerTags": [
+                                                                {
+                                                                    "title": "40% OFF",
+                                                                    "subTitle": "USE SWIGGYIT",
+                                                                    "textColor": "#DB6742",
+                                                                    "backgroundColor": "#FAE8E3"
+                                                                }
+                                                            ],
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 20421001000584"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                                            "area": "Khajpura",
+                                            "completeAddress": "SALTWATER: A/16, ASHOKPURI COLONY, KHAJPURA, PATNA, KARANPURA, PATNA SADAR , PATNA, BIHAR- 800014 (HUL- I280206P574)"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "b5acfd7f-12ab-4a24-975d-7d264360c1e5",
+    "sid": "8tnbd01c-1aed-494c-b979-8b9ee927df14",
+    "deviceId": "c40c77f2-8b0e-dc9f-f6c2-5cc3e0c2d11d",
+    "csrfToken": null
+}

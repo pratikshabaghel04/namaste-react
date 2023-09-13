@@ -30,9 +30,9 @@ import {SiGithub, SiLinkedin, SiTwitter} from "react-icons/si"
     return (
       <div>
         <div className="about-container flex gap-4 justify-around">
-             <div className="  ">
-              <h1 className=" font-medium text-xl m-4 ">About Me</h1>
-              <div className="text-4xl p-4 flex mt-2">
+             <div className=" flex flex-col mt-28 gap-2">
+              <h1 className=" font-bold text-2xl m-4 text-center ">About Me</h1>
+              <div className="text-4xl p-4 gap-4 flex mt-2">
             
                 <a href={GITHUB_LINK}  className="mb-2 pr-4 hover:scale-105"
               target="_blank">  <i className="bg-[#333] icon--i">
@@ -50,12 +50,12 @@ import {SiGithub, SiLinkedin, SiTwitter} from "react-icons/si"
               </i></a>
               </div>
               
-              
-            <div className="about-left">
+            </div>  
+             <div className="about-left mt-28 mb-8">
                 <img src={food} alt="Food Image" />
-            </div>
+              </div>
               
-               </div>
+           
 
         </div>
                   {/* <UserClass name={"P (class)"} /> */} 

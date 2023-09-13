@@ -21,9 +21,7 @@ const Body = () => {
         },[]);  
 
     const fetchData = async () => {
-        const res = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=24.6005075&lng=80.8322428&page_type=DESKTOP_WEB_LISTING" 
-
-        );
+        const res = await fetch(RESTAURANT_API);
         const json = await res.json();
         setListOfRestaurants(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
         setFilteredRestaurant(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
@@ -47,7 +45,7 @@ const Body = () => {
 
         <div className="body">
            <div className="flex justify-around">
-            // Search Restaurant
+            {/*  Search Restaurant */}
            <div className="search m-4 p-6">
             <input type="text" 
             placeholder="   Search Restaurant"
@@ -72,7 +70,7 @@ const Body = () => {
             Search
             </button>
            </div>
-           // filter Reataurant
+           {/*  filter Reataurant */}
                 <div  className="m-4 p-4 flex items-center">
                <button 
                className=" px-4 py-2 bg-orange-500 rounded-lg"

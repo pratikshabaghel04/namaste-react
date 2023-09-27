@@ -23,8 +23,8 @@ const Body = () => {
     const fetchData = async () => {
         const res = await fetch(RESTAURANT_API);
         const json = await res.json();
-        setListOfRestaurants(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
-        setFilteredRestaurant(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+        setListOfRestaurants(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+        setFilteredRestaurant(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
 
     };
     const onlineStatus = useOnlineStatus();
@@ -32,7 +32,7 @@ const Body = () => {
     if (onlineStatus === false)
       return (
        <div className="flex justify-center items-center">
-        <h1 className="bg-orange-400 py-4 mx-8 my-4 inline-block px-6 text-xl font-semibold rounded-md">
+        <h1 className="bg-orange-400 py-4 mx-8 my-28 inline-block px-6 text-xl font-semibold rounded-md">
           Looks like you're offline!! Please check your internet connection;
         </h1>
         </div>

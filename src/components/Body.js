@@ -23,8 +23,8 @@ const Body = () => {
     const fetchData = async () => {
         const res = await fetch(RESTAURANT_API);
         const json = await res.json();
-        setListOfRestaurants(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
-        setFilteredRestaurant(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+        setListOfRestaurants(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+        setFilteredRestaurant(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
 
     };
     const onlineStatus = useOnlineStatus();
@@ -40,8 +40,7 @@ const Body = () => {
        const { loggedInUser, setUserName} = useContext(UserContext)
        console.log(listOfRestaurants); 
        
-
-      return  listOfRestaurants.length === 0 ? (<Shimmer />) :  (
+         return listOfRestaurants.length === 0 ?  (<Shimmer />) : (
 
         <div className="body">
            <div className="flex justify-around">
@@ -106,6 +105,6 @@ const Body = () => {
                  ))} 
             </div>
         </div>
-    );
+     );
 };
 export default Body;
